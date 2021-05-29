@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My cyber name is PyQt6, which comes from the PyQt project, but I have nothing to do with that.
+
